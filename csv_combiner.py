@@ -4,6 +4,7 @@ from os.path import exists
 import pandas as pd
 import time
 
+
 class CSVCombiner():
     def __init__(self, path) -> None:
         self.path = os.path.dirname(__file__)
