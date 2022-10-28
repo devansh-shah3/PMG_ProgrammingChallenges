@@ -14,6 +14,8 @@ This example is provided as one of the ways your code should run. It should also
 python csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv combined.csv
 ```
 
+command line program that takes several CSV files as arguments, for example -> [input1.csv input2.csv output.csv]
+
 Given two input files named `clothing.csv` and `accessories.csv`. Generated output file name `combined.csv`.
 
 |email_hash|category|
