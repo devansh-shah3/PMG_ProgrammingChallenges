@@ -10,7 +10,9 @@ This example is provided as one of the ways your code should run. It should also
 
 
 # How to run the csv_combiner.py
+```
 python csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv combined.csv
+```
 
 Given two input files named `clothing.csv` and `accessories.csv`. Generated output file name `combined.csv`.
 
